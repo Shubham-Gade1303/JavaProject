@@ -6,6 +6,167 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UniqueElement",
+            "request": "launch",
+            "mainClass": "RSL_Pracice.UniqueElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ClosestPrimeNumber",
+            "request": "launch",
+            "mainClass": "RSL_Pracice.ClosestPrimeNumber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "LongestConsecutiveSequence",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_08.LongestConsecutiveSequence",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicate",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_04.FindDuplicate",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ConvertIntoUpperCase",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_04.ConvertIntoUpperCase",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "CountStringStringChar",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_04.CountStringStringChar",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindEven",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_04.FindEven",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindSecondMax",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_04.FindSecondMax",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "Greatger",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_04.Greatger",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_03.FizzBuzz",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_03.Palindrome",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "StringReversal",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_03.StringReversal",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "MaxPairSum",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_01.MaxPairSum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindAdjesumPair",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_01.FindAdjesumPair",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "CountEvenNum",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_01.CountEvenNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindMax",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_01.FindMax",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "March_2026.march31.ReverseArray",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "AnagramCheck",
+            "request": "launch",
+            "mainClass": "March_2026.march31.AnagramCheck",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "March_2026.march31.Q1",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "serachElement",
+            "request": "launch",
+            "mainClass": "March_2026.march29.serachElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "CountCommanWordsWithOccurance",
+            "request": "launch",
+            "mainClass": "March_2026.march28.CountCommanWordsWithOccurance",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "MatchingSubString",
+            "request": "launch",
+            "mainClass": "March_2026.march28.MatchingSubString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "SalaryFind",
+            "request": "launch",
+            "mainClass": "March_2026.Java8.SalaryFind",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "MaximumNum",
             "request": "launch",
             "mainClass": "March_2026.Java8.MaximumNum",
