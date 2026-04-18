@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseOnlyletter",
+            "request": "launch",
+            "mainClass": "Coding_2026.April_2026.April_18.ReverseOnlyletter",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "NumOfMinCoins",
+            "request": "launch",
+            "mainClass": "RSL_Pracice.NumOfMinCoins",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "TwoStringConcating",
+            "request": "launch",
+            "mainClass": "RSL_Pracice.TwoStringConcating",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "UNiE",
+            "request": "launch",
+            "mainClass": "UNiE",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "UniqueElement",
             "request": "launch",
             "mainClass": "RSL_Pracice.UniqueElement",

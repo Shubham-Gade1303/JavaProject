@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        input{
+            width:400px;
+            height:40px;
+        }
+    </style>
+<script type="text/javascript">
+    function checkMoreDotOp(str,index){
+        let estring=str.substring(index,str.length);
+        let firstIndex=estring.indexOf(".");
+        let lastIndex=estring.lastIndexOf(".");
+        return (lastIndex-firstIndex)==0?true:false;
+    }
+    function checkCharAfterLastDotOp(str,index){ //str=@gmail.com or @gmail.in
+        let result=checkMoreDotOp(str,index);
+        if(result){//if result true means email contain single dot operator after @
+            index=str.indexOf(".");
+            let subs=str.substring(index,str.length); //.com = 4-1==3
+            return (((subs.length-1)==3)||((subs.length-1)==2))?true:false;
+        }
+        else{
+            return false;
+        }
+    }
+    function checkCapsAndSpecial(str){
+        let flag=false; //abc
+        console.log(str.charCodeAt('?'));
+        for(var i=0;i< str.length;i++){
+       
+            if((str.charCodeAt(i)>=97 && str.charCodeAt(i)<=122)||(str.charCodeAt(i)>=48 && str.charCodeAt(i)<=57) || str.charAt(i)=='@' || str.charAt(i)=='_' || str.charAt(i)=='.' || str.charAt(i)=='$')
+            { flag=true;
+            }
+            else{
+                flag=false;
+                break;
+            }
+           
+        }
+        return flag;//!false = true
+    }
+    
+function validateEmail(email) {
+    let span = document.getElementById("s");
+
+    // Standard email regex
+    let emailPattern = /^[a-zA-Z0-9._$]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+
+    if (emailPattern.test(email)) {
+        span.innerHTML = "Valid email";
+        span.style.color = "green";
+    } else {
+        span.innerHTML = "Invalid email";
+        span.style.color = "red";
+    }
+}
+
+
+
+   
+</script>
+</head>
+<body>
+    <input type="text" name="name"  id="n" value=""  style="width:400px;height: 40px;"
+    onkeyup="validateEmail(this.value)"/>
+    <span id="s"></span><br/><br/>
+</body>
+</html>
