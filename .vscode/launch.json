@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "June_2026.TwoSum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "StringRev",
+            "request": "launch",
+            "mainClass": "June_2026.StringRev",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateRe",
+            "request": "launch",
+            "mainClass": "June_2026.DuplicateRe",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "June_2026.ReverseArray",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "secondMAx",
+            "request": "launch",
+            "mainClass": "June_2026.secondMAx",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "largeNum",
+            "request": "launch",
+            "mainClass": "June_2026.largeNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FloydTrangle",
+            "request": "launch",
+            "mainClass": "June_2026.FloydTrangle",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "Pattern4",
             "request": "launch",
             "mainClass": "June_2026.Pattern4",
