@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StartWith",
+            "request": "launch",
+            "mainClass": "June_2026.StartWith",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "NameConversion",
+            "request": "launch",
+            "mainClass": "June_2026.NameConversion",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "OddFromList",
             "request": "launch",
             "mainClass": "June_2026.OddFromList",
