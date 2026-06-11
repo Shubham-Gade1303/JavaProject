@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NthNeonNumber",
+            "request": "launch",
+            "mainClass": "June_2026.NthNeonNumber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "NeonNUmber",
+            "request": "launch",
+            "mainClass": "June_2026.NeonNUmber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "Sap",
             "request": "launch",
             "mainClass": "June_2026.Sap",
