@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "isSorted",
+            "request": "launch",
+            "mainClass": "isSorted",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FirstApp",
+            "request": "launch",
+            "mainClass": "June_2026.JDBC.FirstApp",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "NthNeonNumber",
             "request": "launch",
             "mainClass": "June_2026.NthNeonNumber",
