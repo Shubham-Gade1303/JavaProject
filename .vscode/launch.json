@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "MultiplyWithAdjecunt",
             "request": "launch",
             "mainClass": "MultiplyWithAdjecunt",
