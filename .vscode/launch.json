@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Searchelemt",
+            "request": "launch",
+            "mainClass": "Searchelemt",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "MaxNum",
             "request": "launch",
             "mainClass": "MaxNum",
