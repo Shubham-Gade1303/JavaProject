@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxNum",
+            "request": "launch",
+            "mainClass": "MaxNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ReverseArray",
             "request": "launch",
             "mainClass": "ReverseArray",
