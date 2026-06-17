@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HappyNumber",
+            "request": "launch",
+            "mainClass": "HappyNumber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "MergeAlternateString",
             "request": "launch",
             "mainClass": "MergeAlternateString",

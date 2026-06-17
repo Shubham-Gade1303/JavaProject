@@ -1,5 +1,10 @@
+/*  Input: word1 = "abc", word2 = "pqr"
+Output: "apbqcr"
+Explanation: The merged string will be merged as so:
+word1:  a   b   c
+word2:    p   q   r
+merged: a p b q c r */
 import java.util.Scanner;
-
 public class MergeAlternateString {
     public String MergerAlter(String s1, String s2){
         StringBuilder SB = new StringBuilder();
