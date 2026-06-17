@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlusOne",
+            "request": "launch",
+            "mainClass": "PlusOne",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "HappyNumber",
             "request": "launch",
             "mainClass": "HappyNumber",
