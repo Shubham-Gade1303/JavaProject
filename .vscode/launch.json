@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestPandromicSubString",
+            "request": "launch",
+            "mainClass": "LongestPandromicSubString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "PlusOne",
             "request": "launch",
             "mainClass": "PlusOne",
