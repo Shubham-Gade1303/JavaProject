@@ -6,7 +6,7 @@ public class DescendignArray {
     public static void main(String[] args) {
         int[] arr = {100,30,20,10,40,60,70,80,50,90};
 
-        Arrays.sort(arr);
+        Arrays.sort(arr, Collections.reverseOrder());
         System.out.print(Arrays.toString(arr));
     }
 }
