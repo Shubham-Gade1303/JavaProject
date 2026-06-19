@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortUsingInBuilt",
+            "request": "launch",
+            "mainClass": "SortUsingInBuilt",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "SortElement",
             "request": "launch",
             "mainClass": "SortElement",
