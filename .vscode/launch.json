@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RecusiveApToMax",
+            "request": "launch",
+            "mainClass": "RecusiveApToMax",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "MoveZerosLast",
             "request": "launch",
             "mainClass": "MoveZerosLast",
