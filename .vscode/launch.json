@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DeleteLastElemet",
+            "request": "launch",
+            "mainClass": "DeleteLastElemet",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "RecusiveApToMax",
             "request": "launch",
             "mainClass": "RecusiveApToMax",
