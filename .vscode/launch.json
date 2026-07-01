@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfSubArray",
+            "request": "launch",
+            "mainClass": "SumOfSubArray",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "LongestSubstring",
             "request": "launch",
             "mainClass": "LongestSubstring",
