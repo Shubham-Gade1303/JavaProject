@@ -2,8 +2,6 @@ package July2026;
 
 import java.util.Scanner;
 
-import javax.swing.plaf.synth.SynthStyle;
-
 public class CountVowelAndCon {
 
     public static void main(String[] args) {

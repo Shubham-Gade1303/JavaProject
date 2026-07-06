@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ComapreTwoString",
+            "request": "launch",
+            "mainClass": "July2026.ComapreTwoString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "LengthofString",
+            "request": "launch",
+            "mainClass": "July2026.LengthofString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "CountScape",
+            "request": "launch",
+            "mainClass": "July2026.CountScape",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "lowerToUpper",
+            "request": "launch",
+            "mainClass": "July2026.lowerToUpper",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "UppperToLowerCase",
+            "request": "launch",
+            "mainClass": "July2026.UppperToLowerCase",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "CountVowelAndCon",
             "request": "launch",
             "mainClass": "July2026.CountVowelAndCon",
