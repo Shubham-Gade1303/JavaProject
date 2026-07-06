@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LeetcodePalindrome",
+            "request": "launch",
+            "mainClass": "July2026.LeetcodePalindrome",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "RevLeectcode",
+            "request": "launch",
+            "mainClass": "July2026.RevLeectcode",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "July2026.ReverseString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "SumOfSubArray",
             "request": "launch",
             "mainClass": "SumOfSubArray",
