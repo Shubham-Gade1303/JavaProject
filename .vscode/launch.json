@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountVowelAndCon",
+            "request": "launch",
+            "mainClass": "July2026.CountVowelAndCon",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "LeetcodePalindrome",
             "request": "launch",
             "mainClass": "July2026.LeetcodePalindrome",
