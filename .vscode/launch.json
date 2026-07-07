@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseWordOfString",
+            "request": "launch",
+            "mainClass": "July2026.ReverseWordOfString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "RemoveVowelFromString",
             "request": "launch",
             "mainClass": "July2026.RemoveVowelFromString",
