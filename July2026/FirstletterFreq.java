@@ -7,19 +7,14 @@ public class FirstletterFreq {
         Scanner sc = new Scanner(System.in);
         System.out.print("String : ");
         String s = sc.next();
-
-
         for(int i=0;i<s.length();i++){
             char ch = s.charAt(i);
-        
-        if(s.indexOf(ch) == s.lastIndexOf(ch)){
-            System.out.print(i +"\n");
-            return;
-            
-           }   
-            
-        }
 
+        if(s.indexOf(ch) == s.lastIndexOf(ch)){
+            System.out.print(i);
+            return;
+           }   
+        }
         System.out.println(-1);
     }
 }

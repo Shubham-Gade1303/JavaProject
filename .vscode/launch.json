@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValidAnagram",
+            "request": "launch",
+            "mainClass": "July2026.ValidAnagram",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "FirstletterFreq",
             "request": "launch",
             "mainClass": "July2026.FirstletterFreq",
