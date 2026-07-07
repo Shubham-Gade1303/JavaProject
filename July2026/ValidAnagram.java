@@ -11,8 +11,6 @@ public class ValidAnagram {
         System.out.print("String 2 : " );
         String s2 =sc.next();
 
-       
-
         if(s.length() != s2.length()){
             System.out.print("NOt Anagram..");
         }
