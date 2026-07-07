@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FirstletterFreq",
+            "request": "launch",
+            "mainClass": "July2026.FirstletterFreq",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "Concatacting",
             "request": "launch",
             "mainClass": "July2026.Concatacting",
