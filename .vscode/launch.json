@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "July2026.TwoSum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "FindDuplicate",
             "request": "launch",
             "mainClass": "July2026.FindDuplicate",
