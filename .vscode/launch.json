@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ToggleCase",
+            "request": "launch",
+            "mainClass": "July2026.ToggleCase",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ReverseWordOfString",
             "request": "launch",
             "mainClass": "July2026.ReverseWordOfString",
