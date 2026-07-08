@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MissingElement",
+            "request": "launch",
+            "mainClass": "July2026.MissingElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "RotateArray",
+            "request": "launch",
+            "mainClass": "July2026.RotateArray",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "MissingArray",
+            "request": "launch",
+            "mainClass": "MissingArray",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ToggleCase",
             "request": "launch",
             "mainClass": "July2026.ToggleCase",
