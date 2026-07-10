@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindFirstRepInt",
+            "request": "launch",
+            "mainClass": "July2026.CollectionApp.FindFirstRepInt",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateRemove",
+            "request": "launch",
+            "mainClass": "July2026.CollectionApp.DuplicateRemove",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "MaxSum",
             "request": "launch",
             "mainClass": "July2026.MaxSum",
