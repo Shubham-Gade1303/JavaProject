@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InterSectionOfTwoList",
+            "request": "launch",
+            "mainClass": "July2026.CollectionApp.InterSectionOfTwoList",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "DuplicateContains",
             "request": "launch",
             "mainClass": "July2026.CollectionApp.DuplicateContains",
