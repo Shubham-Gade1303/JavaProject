@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GroupOfAnagram",
+            "request": "launch",
+            "mainClass": "July2026.CollectionApp.GroupOfAnagram",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "RemoveDuplicateCharacter",
             "request": "launch",
             "mainClass": "July2026.CollectionApp.RemoveDuplicateCharacter",
