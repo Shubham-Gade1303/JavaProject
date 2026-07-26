@@ -1,8 +1,17 @@
 package July2026.CollectionApp;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class GroupOfAnagram {
+    public List<List<String>> groupAnagramList(String[] s){
+        Map<String, List<String>> map = new HashMap<>();
+
+
+        for(String word : s){
+            
+        }
+
+    }
     
 
 
@@ -16,8 +25,11 @@ public class GroupOfAnagram {
        for(int i = 0;i<size;i++){
         s[i] = sc.next();
        }
+       System.out.print("Entered Group of String: ");
        for(int i=0;i<size;i++){
        System.out.print(s[i]+" ");
        }
+
+
     }
 }
