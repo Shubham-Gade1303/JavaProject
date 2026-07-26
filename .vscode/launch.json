@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindMaxNum",
+            "request": "launch",
+            "mainClass": "July2026.StramAPI.FindMaxNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "CountElement",
+            "request": "launch",
+            "mainClass": "July2026.StramAPI.CountElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "July2026.StramAPI.RemoveDuplicate",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "SortAsDESC",
+            "request": "launch",
+            "mainClass": "July2026.StramAPI.SortAsDESC",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "SortNumberASC",
+            "request": "launch",
+            "mainClass": "July2026.StramAPI.SortNumberASC",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ConvertStringIntoUpperCase",
             "request": "launch",
             "mainClass": "July2026.StramAPI.ConvertStringIntoUpperCase",
