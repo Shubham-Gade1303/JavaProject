@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindOddNum",
+            "request": "launch",
+            "mainClass": "July2026.StramAPI.FindOddNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "FindEvenNum",
             "request": "launch",
             "mainClass": "July2026.StramAPI.FindEvenNum",
