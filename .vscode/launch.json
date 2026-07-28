@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "secondLowNum",
+            "request": "launch",
+            "mainClass": "July2026.StramAPI.secondLowNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "FreqOfEachElement",
             "request": "launch",
             "mainClass": "July2026.StramAPI.FreqOfEachElement",
