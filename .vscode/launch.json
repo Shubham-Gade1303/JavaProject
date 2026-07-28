@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FreqOfEachElement",
+            "request": "launch",
+            "mainClass": "July2026.StramAPI.FreqOfEachElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindMinNum",
+            "request": "launch",
+            "mainClass": "July2026.StramAPI.FindMinNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "FindMaxNum",
             "request": "launch",
             "mainClass": "July2026.StramAPI.FindMaxNum",
