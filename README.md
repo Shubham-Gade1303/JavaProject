@@ -58,4 +58,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 
 ---
 
+- leetcode problem solved
+- 
+
 > **"Consistency beats intensity. One problem every day leads to extraordinary improvement."**
