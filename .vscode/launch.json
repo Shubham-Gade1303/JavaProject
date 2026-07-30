@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Room",
+            "request": "launch",
+            "mainClass": "July2026.Room",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "StringByLength",
             "request": "launch",
             "mainClass": "July2026.StramAPI.StringByLength",
