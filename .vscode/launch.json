@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "InfosysPractice.RemoveDuplicate",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "MoveZeros",
+            "request": "launch",
+            "mainClass": "InfosysPractice.MoveZeros",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargeElement",
+            "request": "launch",
+            "mainClass": "InfosysPractice.SecondLargeElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "TwoSum",
             "request": "launch",
             "mainClass": "InfosysPractice.TwoSum",
