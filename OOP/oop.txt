@@ -1,0 +1,153 @@
+	Why constructor cannot be static?
+--->constructor can not be static because of constructor belong to the object 
+	and statis belong to the class 
+
+	Can constructor be final?
+--> No, constructor can not be final 
+	A final keyword is used to privent inhiretance related modification 
+	A final method can not be overridden
+	A final method can not be inhiretated
+	A final variable cannot be reassinged
+	A constructor is never inherited, 
+	so it cannot be overridden. Since there is nothing to prevent,
+	marking a constructor final has no meaning.
+
+	Can constructor return anything?
+---> constructor can not return anything value
+	because constructor does not have a retun type not even void;
+	the main goal of constructor is to initilize an object not to any return value
+	
+--->
+	Difference between Constructor and Method?
+    constructor:- 
+		constructor is used to initilize an object when it is created 
+		constructor must be same name as class name,
+		constructor can't have return type or not even void
+		it automatically called when object is created
+		constructor can be overloaded
+		constructor can not be overloaded
+		constructor are not inhiretated 
+		compiler provide default constructor if you are not created
+
+    vs
+    methods:- 
+		methods are used to perform the sprecific task
+		methods can have any valid name 
+		methods have return type(int, void, String)
+		method called explicitly when object called
+		methods can be overloaded
+		methods can b overridden (expect static , final, private);
+		method are inhiretated(unless private)
+		no default method are created by the compiler
+
+
+    Pillars of OOP
+    1. Encapsulation
+    --> Encapsulation is the process of wrapping data and methods in a single unit 
+        while restricting direct access to the data using access modification
+        ex:-thinking about 
+            ATM machine deposite money withdraw , check balance
+            you cannot directly access or modify  the banks dataabse
+
+        variable are hidden private
+        public methods getter and setter provide controll access
+
+        datahiding
+        better security
+        controlled access to data 
+        data validation
+        Easier maintanance
+        loose coupling
+        improve code reusability
+        
+
+    2. Inheritance
+	--> Inheritance meand to acquire a property of one class to another class
+		using extend keyword
+
+		ex:- 
+		class Animal{
+			void eat(){
+				System.out.println("Animal eat");
+			}
+		}
+
+		class dog extend Animal{
+			void bark(){
+				System.out.println("Dog is barking" );
+			}
+		}
+		public class Main{
+			public static void main(String[]args){
+				Dog d = new Dog();
+				d.eat();
+				d.bark();
+			}
+		}
+
+		There are 4 types of Inheritance
+		
+		1.single level 
+		---> one parent one child 
+		a
+		|
+		b
+
+
+		2.multi-level 
+		---> one is grandparent ,1 parent 1, child 
+		class A{
+
+		}
+		class b extend A{
+
+		}
+		class c extend b{
+
+		}
+
+
+		3.Hierarchical
+		--->Hierarchical Inheritance means one parent multiple child
+		class a{
+
+		}
+		class b extend a{
+
+		}
+		class c extend a{
+
+		}
+
+		4.multiple inhiretance not support with but using interface 
+		---> multiple inhiretance means one child class inherited from 2 or more classes
+		class a{
+
+		}
+		class b{
+
+		}
+
+		class c extends a,b{
+
+		}
+		// but using class multiple inhiretance is not supported it creats Diamond problem 
+		which method to show should java called 
+		JVM get confused And created 
+		b's
+		or 
+		c's
+		this amibiguity is called Diamond problem
+		
+		Advantages 
+		code reusability
+		reduce code duplication 
+		Easier maintanance
+		Support Polymorphism
+		improves the readability
+		
+    3. Polymorphism 
+    4. Abstraction
+	5. Association	
+		
+		

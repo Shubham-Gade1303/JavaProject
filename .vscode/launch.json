@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveStarFromString",
+            "request": "launch",
+            "mainClass": "August2026.RemoveStarFromString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "RemoveDuplicate",
             "request": "launch",
             "mainClass": "InfosysPractice.RemoveDuplicate",
