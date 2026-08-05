@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindDuplicate",
+            "request": "launch",
+            "mainClass": "August2026.FindDuplicate",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "RemoveStarFromString",
             "request": "launch",
             "mainClass": "August2026.RemoveStarFromString",
