@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "primeNumBetween100",
+            "request": "launch",
+            "mainClass": "August2026.primeNumBetween100",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "primeNum",
+            "request": "launch",
+            "mainClass": "August2026.primeNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "TwoSum",
             "request": "launch",
             "mainClass": "August2026.TwoSum",
