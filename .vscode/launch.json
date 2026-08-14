@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findDuplicat",
+            "request": "launch",
+            "mainClass": "August2026.findDuplicat",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "August2026.factorial",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "CheckNumberPalindrome",
+            "request": "launch",
+            "mainClass": "August2026.CheckNumberPalindrome",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "August2026.ReverseString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "primeNumBetween100",
             "request": "launch",
             "mainClass": "August2026.primeNumBetween100",
