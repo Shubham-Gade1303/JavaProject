@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SecondRepeatingCharacter",
+            "request": "launch",
+            "mainClass": "August2026.SecondRepeatingCharacter",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "CheckNum",
             "request": "launch",
             "mainClass": "August2026.CheckNum",
