@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "checkPrime",
+            "request": "launch",
+            "mainClass": "August2026.checkPrime",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "SwapTwoNumWihtoutThirdVariable",
+            "request": "launch",
+            "mainClass": "August2026.SwapTwoNumWihtoutThirdVariable",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "findDuplicat",
             "request": "launch",
             "mainClass": "August2026.findDuplicat",
