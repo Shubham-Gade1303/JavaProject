@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckNum",
+            "request": "launch",
+            "mainClass": "August2026.CheckNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "checkNumberLarge",
+            "request": "launch",
+            "mainClass": "August2026.checkNumberLarge",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "largeNum",
+            "request": "launch",
+            "mainClass": "August2026.largeNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "EvenOrOdd",
+            "request": "launch",
+            "mainClass": "August2026.EvenOrOdd",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "checkPrime",
             "request": "launch",
             "mainClass": "August2026.checkPrime",
