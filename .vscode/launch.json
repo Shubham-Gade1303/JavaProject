@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfDigit",
+            "request": "launch",
+            "mainClass": "August2026.SumOfDigit",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "August2026.Fibonacci",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "SecondRepeatingCharacter",
             "request": "launch",
             "mainClass": "August2026.SecondRepeatingCharacter",
