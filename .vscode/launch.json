@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenNum",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.EvenNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "findOddNum",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.findOddNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "TrueFalse",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.TrueFalse",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "CollectionWithStream",
             "request": "launch",
             "mainClass": "August2026.SttreamAPI.CollectionWithStream",
