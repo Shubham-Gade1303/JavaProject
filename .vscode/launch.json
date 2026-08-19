@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CollectionWithStream",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.CollectionWithStream",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindProduct",
+            "request": "launch",
+            "mainClass": "August2026.FindProduct",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "CountDigit",
+            "request": "launch",
+            "mainClass": "August2026.CountDigit",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeNu",
+            "request": "launch",
+            "mainClass": "August2026.PalindromeNu",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "reverseNumber",
+            "request": "launch",
+            "mainClass": "August2026.reverseNumber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "SumOfDigit",
             "request": "launch",
             "mainClass": "August2026.SumOfDigit",
