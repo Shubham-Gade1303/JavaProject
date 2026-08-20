@@ -6,6 +6,139 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WxtractEMp",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.WxtractEMp",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "filterTemp",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.filterTemp",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ConvertLowerCase",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.ConvertLowerCase",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "AddMap",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.AddMap",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindLength",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.FindLength",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ConvertNameToUppercase",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.ConvertNameToUppercase",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "findSquare",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.findSquare",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "mapDouble",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.mapDouble",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "filterDuplicateAndGreater20",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.filterDuplicateAndGreater20",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FilterSalry",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.FilterSalry",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindBetweenNumber",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.FindBetweenNumber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "filterLength",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.filterLength",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "filterName",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.filterName",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "DivisiblleBy",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.DivisiblleBy",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "filterPositive",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.filterPositive",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "filterGreater",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.filterGreater",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "filterOdd",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.filterOdd",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "filterEven",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.filterEven",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.Sum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "EvenNum",
             "request": "launch",
             "mainClass": "August2026.SttreamAPI.EvenNum",
