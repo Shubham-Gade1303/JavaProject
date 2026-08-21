@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UD",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.UD",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindUandSort",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.FindUandSort",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "UniqueWords",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.UniqueWords",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "UniqueChar",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.UniqueChar",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "F1",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.F1",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindCount",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.FindCount",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "UniqeOdd",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.UniqeOdd",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "findUniqe",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.findUniqe",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDName",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.RemoveDName",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "DistinctDuplicate",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.DistinctDuplicate",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FilterMap",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.FilterMap",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "IncreaseEveryEmpSalBy10",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.IncreaseEveryEmpSalBy10",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "WxtractEMp",
             "request": "launch",
             "mainClass": "August2026.SttreamAPI.WxtractEMp",
