@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SecondLarge",
+            "request": "launch",
+            "mainClass": "August2026.SttreamAPI.SecondLarge",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "RemoveD",
             "request": "launch",
             "mainClass": "August2026.SttreamAPI.RemoveD",
