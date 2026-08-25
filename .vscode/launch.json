@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FailSafeCopyOnRightArray",
+            "request": "launch",
+            "mainClass": "August2026.MAP.FailSafeCopyOnRightArray",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "FailFastUsingItertator",
             "request": "launch",
             "mainClass": "August2026.MAP.FailFastUsingItertator",
