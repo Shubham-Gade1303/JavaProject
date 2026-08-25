@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FailFastUsingItertator",
+            "request": "launch",
+            "mainClass": "August2026.MAP.FailFastUsingItertator",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "FailFast",
             "request": "launch",
             "mainClass": "August2026.MAP.FailFast",
