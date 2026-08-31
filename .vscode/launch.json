@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseNum",
+            "request": "launch",
+            "mainClass": "Sep2026.ReverseNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "FailSafeCopyOnRightArray",
             "request": "launch",
             "mainClass": "August2026.MAP.FailSafeCopyOnRightArray",
