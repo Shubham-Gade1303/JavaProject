@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "server",
+            "request": "launch",
+            "mainClass": "Sep2026.SocketProgramming.server",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicate",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.FindDuplicate",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ConvertListToSet",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.ConvertListToSet",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.RemoveDuplicate",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "CountAlphabetStart",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.CountAlphabetStart",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "SumOfAllNum",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.SumOfAllNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindMin",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.FindMin",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindMax",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.FindMax",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "SortName",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.SortName",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ConvertToUpperCase",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.ConvertToUpperCase",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "GreaterThan",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.GreaterThan",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "SquareOfNumber",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.SquareOfNumber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "filterEvenNum",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.filterEvenNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ReverseNum",
             "request": "launch",
             "mainClass": "Sep2026.ReverseNum",
