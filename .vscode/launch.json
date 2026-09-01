@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Sep2026.Java8Features.Main",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "server",
             "request": "launch",
             "mainClass": "Sep2026.SocketProgramming.server",
