@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PNUmber",
+            "request": "launch",
+            "mainClass": "Sep2026.BasicLogic.PNUmber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "revString",
+            "request": "launch",
+            "mainClass": "Sep2026.BasicLogic.revString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "Palindrome",
             "request": "launch",
             "mainClass": "Sep2026.BasicLogic.Palindrome",
