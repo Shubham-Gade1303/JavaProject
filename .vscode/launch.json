@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromeString",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.PalindromeString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.ReverseNumber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ReverseString",
             "request": "launch",
             "mainClass": "Sep2026.DSA.ReverseString",
