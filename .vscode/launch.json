@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindDuplicateCharacterUsingHashMap",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.FindDuplicateCharacterUsingHashMap",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "PalindromeString",
             "request": "launch",
             "mainClass": "Sep2026.DSA.PalindromeString",
