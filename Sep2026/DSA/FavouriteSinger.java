@@ -34,5 +34,6 @@ public class FavouriteSinger{
         }
 
         System.out.println(favsong);
+        sc.close();
     }
 }
