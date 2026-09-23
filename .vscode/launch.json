@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FavouriteSinger",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.FavouriteSinger",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "countDuplicate",
             "request": "launch",
             "mainClass": "Sep2026.DSA.countDuplicate",
