@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "palendromicString",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.palendromicString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "zooCount",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.zooCount",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "FavouriteSinger",
             "request": "launch",
             "mainClass": "Sep2026.DSA.FavouriteSinger",
