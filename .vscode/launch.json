@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseStringFromValidParenthitis",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.ReverseStringFromValidParenthitis",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfStep",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.NumberOfStep",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "thirdMax",
             "request": "launch",
             "mainClass": "Sep2026.DSA.thirdMax",
