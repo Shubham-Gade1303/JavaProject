@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindTheLargeMissingNumber",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.FindTheLargeMissingNumber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ReverseDegreeOfString",
             "request": "launch",
             "mainClass": "Sep2026.DSA.ReverseDegreeOfString",
