@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseDegreeOfString",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.ReverseDegreeOfString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "DuplicteCount",
             "request": "launch",
             "mainClass": "Sep2026.DSA.DuplicteCount",
