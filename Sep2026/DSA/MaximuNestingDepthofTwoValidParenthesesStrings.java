@@ -21,8 +21,6 @@ public class MaximuNestingDepthofTwoValidParenthesesStrings {
             }
         }
         return result;
-
-
     }
 
     public static void main(String[] args) {
@@ -34,6 +32,6 @@ public class MaximuNestingDepthofTwoValidParenthesesStrings {
         MaximuNestingDepthofTwoValidParenthesesStrings obj = new MaximuNestingDepthofTwoValidParenthesesStrings();
         int[] app = obj.maxDept(seq);
         System.out.println("Result: "+ Arrays.toString(app));
-        
+
     }
 }

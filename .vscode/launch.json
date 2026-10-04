@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValidParenthesisString",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.ValidParenthesisString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "MaximuNestingDepthofTwoValidParenthesesStrings",
             "request": "launch",
             "mainClass": "Sep2026.DSA.MaximuNestingDepthofTwoValidParenthesesStrings",
