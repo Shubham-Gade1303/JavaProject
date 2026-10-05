@@ -10,7 +10,7 @@ public class findTarget {
         for(int i=0;i<arr.length;i++){
             if(arr[i] == target){
                 find = true;
-                System.out.println("Target: "+ target   + " "+ i+ " found in array");
+                System.out.println("Target: "+ target   + " "+ i + " found in array");
             }
         }
         if(!find){
