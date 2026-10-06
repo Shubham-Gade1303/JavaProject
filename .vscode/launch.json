@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestSubarraySumK",
+            "request": "launch",
+            "mainClass": "Oct2026.LongestSubarraySumK",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "freqChar",
             "request": "launch",
             "mainClass": "Sep2026.DSA.LinearSearch.freqChar",
