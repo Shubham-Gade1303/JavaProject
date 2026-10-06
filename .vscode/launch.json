@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "freqChar",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.LinearSearch.freqChar",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyOfChar",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.LinearSearch.FrequencyOfChar",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeString",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.LinearSearch.PalindromeString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.LinearSearch.ReverseArray",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "SecondMax",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.LinearSearch.SecondMax",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "countOccuranceOfElements",
+            "request": "launch",
+            "mainClass": "Sep2026.DSA.LinearSearch.countOccuranceOfElements",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "findIndexOfElement",
             "request": "launch",
             "mainClass": "Sep2026.DSA.LinearSearch.findIndexOfElement",
