@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OuterParatheses",
+            "request": "launch",
+            "mainClass": "Oct2026.OuterParatheses",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "LongestSubarraySumK",
             "request": "launch",
             "mainClass": "Oct2026.LongestSubarraySumK",

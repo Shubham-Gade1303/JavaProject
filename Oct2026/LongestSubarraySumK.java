@@ -6,7 +6,6 @@ public class LongestSubarraySumK {
     public  static int longSubArray(int[] arr , int target){
         HashMap <Integer, Integer> map = new HashMap<>();
         
-    
         int preSum =0;
         int maxLength=0;
 
@@ -28,9 +27,6 @@ public class LongestSubarraySumK {
         }
         return maxLength;
     }
-    
-
-
     public static void main(String[] args) {
         int[] arr = {1,2,3,1,1,1,2};
         int target = 6;
@@ -38,8 +34,6 @@ public class LongestSubarraySumK {
         int output = longSubArray(arr, target);
 
         System.out.println("OutPut: "+ output);
-
-        
     }
 }
 
