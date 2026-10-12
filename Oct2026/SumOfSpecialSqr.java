@@ -1,5 +1,4 @@
-package Oct2026;
-
+package  Oct2026;
 public class SumOfSpecialSqr {
 
     public int sumOfSpecialNumSqr(int[] num) {

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SearchElement",
+            "request": "launch",
+            "mainClass": "Oct2026.DSA.SearchElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "SerachElement",
+            "request": "launch",
+            "mainClass": "Oct2026.DSA.SerachElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "SumSquare",
+            "request": "launch",
+            "mainClass": "Oct2026.SumSquare",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "SumOfSpecialSqr",
             "request": "launch",
             "mainClass": "Oct2026.SumOfSpecialSqr",
