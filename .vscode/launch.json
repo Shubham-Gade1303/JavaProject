@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultiplyWithAdjecunt",
+            "request": "launch",
+            "mainClass": "Oct2026.DSA.MultiplyWithAdjecunt",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ArrayIsSortedOrNot",
             "request": "launch",
             "mainClass": "Oct2026.DSA.ArrayIsSortedOrNot",
