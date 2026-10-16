@@ -7,8 +7,8 @@ public class FindElemenr{
 
         for(int i=0;i<arr.length;i++){
             if(arr[i] == target){
-                System.out.println("Element Found: "+ " at " + i + target);
-                break;
+                System.out.println("Element Found: "+   target + "  at index  "+  i );
+                return;
             }
         }
         System.out.println("Element not present");
