@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindElemenr",
+            "request": "launch",
+            "mainClass": "Oct2026.DSA.LinearSearch.FindElemenr",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "SubArrayeDistElement",
             "request": "launch",
             "mainClass": "Oct2026.DSA.SubArrayeDistElement",
