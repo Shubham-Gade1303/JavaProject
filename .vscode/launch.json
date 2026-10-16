@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ComparatorSort",
+            "request": "launch",
+            "mainClass": "Oct2026.ComparatorSort",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "SortElement",
             "request": "launch",
             "mainClass": "Oct2026.DSA.BubbleSort.SortElement",
