@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "map",
+            "request": "launch",
+            "mainClass": "Oct2026.DSA.map",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ComparatorSort",
             "request": "launch",
             "mainClass": "Oct2026.ComparatorSort",
