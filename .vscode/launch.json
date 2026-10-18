@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveElementUsingIterator",
+            "request": "launch",
+            "mainClass": "Oct2026.DSA.RemoveElementUsingIterator",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "RemoveElementUsingTwoPointer",
             "request": "launch",
             "mainClass": "Oct2026.DSA.RemoveElementUsingTwoPointer",
