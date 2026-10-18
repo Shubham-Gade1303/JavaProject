@@ -12,7 +12,7 @@ public class RemoveElement {
                     arr[j] = arr[j+1];
                 }
                 n--;
-                break;
+                i--;
             }
         }
 
