@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveElementUsingRemove",
+            "request": "launch",
+            "mainClass": "Oct2026.DSA.RemoveElementUsingRemove",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "RemoveElement",
             "request": "launch",
             "mainClass": "Oct2026.DSA.RemoveElement",
