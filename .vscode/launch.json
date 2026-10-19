@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindAliceAfterSortingArray",
+            "request": "launch",
+            "mainClass": "Oct2026.DSA.FindAliceAfterSortingArray",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "RemoveElementUsingremoveIf",
+            "request": "launch",
+            "mainClass": "Oct2026.DSA.RemoveElementUsingremoveIf",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "RemoveElementUsingStram",
             "request": "launch",
             "mainClass": "Oct2026.DSA.RemoveElementUsingStram",
