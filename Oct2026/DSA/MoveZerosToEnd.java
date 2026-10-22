@@ -37,8 +37,5 @@ public class MoveZerosToEnd{
         for(int num : arr){
             System.out.print(num +" ");
         }
-
-
-
     }
 }
