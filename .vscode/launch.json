@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumKToSortingPermutation",
+            "request": "launch",
+            "mainClass": "Oct2026.DSA.MaximumKToSortingPermutation",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "MoveZerosToEnd",
             "request": "launch",
             "mainClass": "Oct2026.DSA.MoveZerosToEnd",
