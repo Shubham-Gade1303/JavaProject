@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minimum",
+            "request": "launch",
+            "mainClass": "Oct2026.Level2Problem.Minimum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "Maximum",
             "request": "launch",
             "mainClass": "Oct2026.Level2Problem.Maximum",
