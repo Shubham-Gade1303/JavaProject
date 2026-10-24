@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "countOcc",
+            "request": "launch",
+            "mainClass": "Oct2026.Level1Problem.countOcc",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "LastOcc",
+            "request": "launch",
+            "mainClass": "Oct2026.Level1Problem.LastOcc",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "FisrtOcc",
             "request": "launch",
             "mainClass": "Oct2026.Level1Problem.FisrtOcc",
