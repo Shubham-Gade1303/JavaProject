@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NegativeCount",
+            "request": "launch",
+            "mainClass": "Oct2026.Level2Problem.NegativeCount",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "CountPositive",
+            "request": "launch",
+            "mainClass": "Oct2026.Level2Problem.CountPositive",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "SecondMin",
             "request": "launch",
             "mainClass": "Oct2026.Level2Problem.SecondMin",
