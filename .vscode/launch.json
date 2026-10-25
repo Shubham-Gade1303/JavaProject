@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountEvenNum",
+            "request": "launch",
+            "mainClass": "Oct2026.Level2Problem.CountEvenNum",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "NegativeCount",
             "request": "launch",
             "mainClass": "Oct2026.Level2Problem.NegativeCount",
