@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DeleteElementAtIndex",
+            "request": "launch",
+            "mainClass": "Oct2026.Level3Prolem.DeleteElementAtIndex",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "deleteTargetElement",
             "request": "launch",
             "mainClass": "Oct2026.Level3Prolem.deleteTargetElement",
