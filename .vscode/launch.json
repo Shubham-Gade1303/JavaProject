@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DeleteElement",
+            "request": "launch",
+            "mainClass": "Oct2026.Level3Prolem.DeleteElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "InsetionArray",
             "request": "launch",
             "mainClass": "Oct2026.Level3Prolem.InsetionArray",
