@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LeftShiftElement",
+            "request": "launch",
+            "mainClass": "Oct2026.Level3Prolem.LeftShiftElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ReplaceIndexValue",
             "request": "launch",
             "mainClass": "Oct2026.Level3Prolem.ReplaceIndexValue",
