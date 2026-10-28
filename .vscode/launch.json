@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReplaceIndexValue",
+            "request": "launch",
+            "mainClass": "Oct2026.Level3Prolem.ReplaceIndexValue",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceEmenet",
+            "request": "launch",
+            "mainClass": "Oct2026.Level3Prolem.ReplaceEmenet",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ReverseBits",
+            "request": "launch",
+            "mainClass": "Oct2026.Level3Prolem.ReverseBits",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "DeleteElementAtIndex",
             "request": "launch",
             "mainClass": "Oct2026.Level3Prolem.DeleteElementAtIndex",
