@@ -13,8 +13,8 @@ public class LeftShiftElement {
         for(int i=0;i<size;i++){
             arr[i] = sc.nextInt();
         }
-        System.out.print("Enter first Element: ");
-        int first = sc.nextInt();
+        
+        int first = arr[0];
 
         for(int i=0;i<arr.length-1;i++){
             arr[i] = arr[i+1];
