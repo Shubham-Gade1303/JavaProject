@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.ReverseString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberCheck",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.PrimeNumberCheck",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "NthFibonacciNumber",
             "request": "launch",
             "mainClass": "Nov2026.Infosys.NthFibonacciNumber",
