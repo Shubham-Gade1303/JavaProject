@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NthFibonacciNumber",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.NthFibonacciNumber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "CheckTwoStringAnagram",
             "request": "launch",
             "mainClass": "Nov2026.Infosys.CheckTwoStringAnagram",
