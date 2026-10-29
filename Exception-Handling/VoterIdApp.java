@@ -7,7 +7,7 @@ class invalidVoterException extends Exception{
 }
 class VotingMachine{
     int age;
-    void checkEligibity(int age){
+    void checkEligibity(int age) throws invalidVoterException{
         if(age<18){
             invalidVoterException ive = new invalidVoterException();
             throw ive;
