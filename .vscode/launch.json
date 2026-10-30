@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FrequencyOfElement",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.FrequencyOfElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FirstNonReaptingCharacgter",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.FirstNonReaptingCharacgter",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.BinarySearch",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ReverseString",
             "request": "launch",
             "mainClass": "Nov2026.Infosys.ReverseString",
