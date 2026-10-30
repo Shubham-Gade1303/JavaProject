@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FrequencyOfElement",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.FrequencyOfElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FirstNonReaptingCharacgter",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.FirstNonReaptingCharacgter",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.BinarySearch",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.ReverseString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberCheck",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.PrimeNumberCheck",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "NthFibonacciNumber",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.NthFibonacciNumber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "CheckTwoStringAnagram",
             "request": "launch",
             "mainClass": "Nov2026.Infosys.CheckTwoStringAnagram",
