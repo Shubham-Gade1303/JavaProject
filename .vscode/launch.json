@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SmallestBase",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.SmallestBase",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "FrequencyOfElement",
             "request": "launch",
             "mainClass": "Nov2026.Infosys.FrequencyOfElement",
