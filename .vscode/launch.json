@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContainerWithMostWater",
+            "request": "launch",
+            "mainClass": "Nov2026.Infosys.ContainerWithMostWater",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ReverseLinkedList",
             "request": "launch",
             "mainClass": "Nov2026.Infosys.ReverseLinkedList",
