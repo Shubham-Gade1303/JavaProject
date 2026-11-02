@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HavingOneChoreWithAhelper",
+            "request": "launch",
+            "mainClass": "Nov2026.DSA.HavingOneChoreWithAhelper",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "StockBuyAndSell",
             "request": "launch",
             "mainClass": "Nov2026.Infosys.StockBuyAndSell",
