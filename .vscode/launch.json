@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimuMovesWithEqualArrayll",
+            "request": "launch",
+            "mainClass": "Nov2026.DSA.MinimuMovesWithEqualArrayll",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "MinimuMovesWithEqualArray",
+            "request": "launch",
+            "mainClass": "Nov2026.DSA.MinimuMovesWithEqualArray",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "HavingOneChoreWithAhelper",
+            "request": "launch",
+            "mainClass": "Nov2026.DSA.HavingOneChoreWithAhelper",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "StockBuyAndSell",
             "request": "launch",
             "mainClass": "Nov2026.Infosys.StockBuyAndSell",
