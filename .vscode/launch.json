@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenNumber",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.EvenNumber",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "MinimuMovesWithEqualArrayll",
             "request": "launch",
             "mainClass": "Nov2026.DSA.MinimuMovesWithEqualArrayll",
