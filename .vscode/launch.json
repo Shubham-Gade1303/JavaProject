@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindFirstElement",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.FindFirstElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicate",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.FindDuplicate",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "Nov2026.StreamAPI.App",
