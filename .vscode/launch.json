@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindFreqOfElement",
+            "request": "launch",
+            "mainClass": "Nov2026.DSA.FindFreqOfElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "SmmalestStableIndex",
             "request": "launch",
             "mainClass": "Nov2026.DSA.SmmalestStableIndex",
