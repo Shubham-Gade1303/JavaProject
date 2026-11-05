@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SmmalestStableIndex",
+            "request": "launch",
+            "mainClass": "Nov2026.DSA.SmmalestStableIndex",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "CountCommasinRange",
             "request": "launch",
             "mainClass": "Nov2026.DSA.CountCommasinRange",
