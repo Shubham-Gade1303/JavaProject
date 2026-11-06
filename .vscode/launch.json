@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Nov2026.DSA.Main",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "reverseEachWordnString",
             "request": "launch",
             "mainClass": "Nov2026.DSA.reverseEachWordnString",
