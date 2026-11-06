@@ -11,10 +11,7 @@ public class FindFreqOfElement{
 
         for(int num : arr){
             map.put(num, map.getOrDefault(num, 0)+1);
-
         }
         System.out.print(map);
-        
-
     }
 }
