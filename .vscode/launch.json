@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverseEachWordnString",
+            "request": "launch",
+            "mainClass": "Nov2026.DSA.reverseEachWordnString",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "SplitWordAndRev",
             "request": "launch",
             "mainClass": "Nov2026.DSA.SplitWordAndRev",
