@@ -14,4 +14,9 @@ public class FindFreqOfElement{
         }
         System.out.print(map);
     }
+
+    public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'findTheDistanceValue'");
+    }
 }
