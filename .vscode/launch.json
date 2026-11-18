@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DesingParkingSystem",
+            "request": "launch",
+            "mainClass": "Nov2026.SystemDesign.DesingParkingSystem",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "Permutation",
             "request": "launch",
             "mainClass": "Nov2026.DSA.Permutation",
