@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MakeBinaryStringBeatiful",
+            "request": "launch",
+            "mainClass": "Nov2026.DSA.MakeBinaryStringBeatiful",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "DesingParkingSystem",
             "request": "launch",
             "mainClass": "Nov2026.SystemDesign.DesingParkingSystem",
