@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SolidSquare",
+            "request": "launch",
+            "mainClass": "Nov2026.LogicalProgramming.SolidSquare",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "MinimumScoreByChangingTwoElement",
             "request": "launch",
             "mainClass": "Nov2026.DSA.MinimumScoreByChangingTwoElement",
