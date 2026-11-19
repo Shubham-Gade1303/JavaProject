@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumScoreByChangingTwoElement",
+            "request": "launch",
+            "mainClass": "Nov2026.DSA.MinimumScoreByChangingTwoElement",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "DesignAnOrderStream",
+            "request": "launch",
+            "mainClass": "Nov2026.SystemDesign.DesignAnOrderStream",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "MakeBinaryStringBeatiful",
             "request": "launch",
             "mainClass": "Nov2026.DSA.MakeBinaryStringBeatiful",
