@@ -3,10 +3,14 @@ import java.util.function.Predicate;;
 public class PredicateApp {
 
     public static void main(String[] args) {
-        Predicate<Integer> p = num -> num % 2 ==0;
+        Predicate<Integer> p = n -> n >10;
+        Predicate<Integer>p2 = n -> n <50;
 
-        System.out.println(p.test(10));
-        System.out.print(p.test(13));
+
+
+        System.out.println(p.and(p2).test(20));
+        System.out.println(p.or(p2).test(5));
+        System.out.println(p.negate().test(20));
     }
     
 }
