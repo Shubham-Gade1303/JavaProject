@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PredicateApp",
+            "request": "launch",
+            "mainClass": "Nov2026.LogicalProgramming.PredicateApp",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "ArrayAfterMofification",
             "request": "launch",
             "mainClass": "Nov2026.DSA.ArrayAfterMofification",
