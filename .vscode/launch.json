@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "filterApp",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.filterApp",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "filter",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.filter",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "InstanceMethodReference",
             "request": "launch",
             "mainClass": "Nov2026.LogicalProgramming.InstanceMethodReference",
