@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AppDefaultMethod",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.AppDefaultMethod",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "AppHandler",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.AppHandler",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "nullAppHandler",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.nullAppHandler",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "mapAPP",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.mapAPP",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "filterApp",
             "request": "launch",
             "mainClass": "Nov2026.StreamAPI.filterApp",
