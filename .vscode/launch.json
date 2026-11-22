@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AppDateAndTimeAPI",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.AppDateAndTimeAPI",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "AppStaticInterface",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.AppStaticInterface",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "AppDefaultMethod",
             "request": "launch",
             "mainClass": "Nov2026.StreamAPI.AppDefaultMethod",
