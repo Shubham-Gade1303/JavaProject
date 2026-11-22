@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AppDefaultMethod",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.AppDefaultMethod",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "AppHandler",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.AppHandler",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "nullAppHandler",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.nullAppHandler",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "mapAPP",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.mapAPP",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "filterApp",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.filterApp",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "filter",
+            "request": "launch",
+            "mainClass": "Nov2026.StreamAPI.filter",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "InstanceMethodReference",
+            "request": "launch",
+            "mainClass": "Nov2026.LogicalProgramming.InstanceMethodReference",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "StaticMethodReference",
+            "request": "launch",
+            "mainClass": "Nov2026.LogicalProgramming.StaticMethodReference",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "ConsumerApp",
+            "request": "launch",
+            "mainClass": "Nov2026.LogicalProgramming.ConsumerApp",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "PredicateApp",
             "request": "launch",
             "mainClass": "Nov2026.LogicalProgramming.PredicateApp",
