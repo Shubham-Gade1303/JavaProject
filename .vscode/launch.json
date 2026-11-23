@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DeamonThreadApp",
+            "request": "launch",
+            "mainClass": "Nov2026.Threading.DeamonThreadApp",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Nov2026.StreamAPI.EmpApp.Main",
