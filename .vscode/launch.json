@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RunnableApp",
+            "request": "launch",
+            "mainClass": "Nov2026.Threading.RunnableApp",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
+            "name": "WayToCreateThreadClass",
+            "request": "launch",
+            "mainClass": "Nov2026.Threading.WayToCreateThreadClass",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "DeamonThreadApp",
             "request": "launch",
             "mainClass": "Nov2026.Threading.DeamonThreadApp",

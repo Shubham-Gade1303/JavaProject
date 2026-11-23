@@ -9,7 +9,7 @@ public class DeamonThreadApp{
 
         });
 
-        t.setDaemon(false);
+        t.setDaemon(true);
         t.start();
         System.out.println("Main Thread finished");
     }
