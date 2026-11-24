@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumSubArrayWithEqual",
+            "request": "launch",
+            "mainClass": "Nov2026.DSA.MaximumSubArrayWithEqual",
+            "projectName": "java_practice_2fd590ec"
+        },
+        {
+            "type": "java",
             "name": "RunnableApp",
             "request": "launch",
             "mainClass": "Nov2026.Threading.RunnableApp",
