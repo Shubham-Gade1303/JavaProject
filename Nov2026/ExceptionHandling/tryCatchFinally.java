@@ -4,7 +4,8 @@
 
         public static void main(String[] args){
             try{
-                int result = 10 / 0;
+                int result = 10 / 2;
+                System.out.println(result);
 
             }catch (ArithmeticException e){
                 System.out.println("Divison by zero is not Allow");
